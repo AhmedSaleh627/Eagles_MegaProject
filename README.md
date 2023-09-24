@@ -17,7 +17,7 @@ It is an advanced autopilot system used in unmanned aerial vehicles, It serves a
 
 ## Jetson Nano ( on-board computer )  
 
-An effective, low-power, and small platform for integrating AI and computer vision capabilities on UAVs. For UAV applications that need extensive onboard processing and autonomous decision-making, it's an excellent option thanks to its GPU acceleration, neural network inference capabilities, and developer support.  
+An effective, low-power, and small platform for integrating AI and computer vision functionalities . For UAV applications that need extensive onboard processing and autonomous decision-making, it's an excellent option thanks to its GPU acceleration, neural network inference capabilities, and developer support.  
 
 <img src="https://github.com/AhmedSaleh627/Eagles_MegaProject/assets/88249795/c295744a-02ee-4da6-bd47-435c9b274b29" width="400" height="400" />  
 
