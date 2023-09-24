@@ -4,7 +4,7 @@ It is an advanced autopilot system used in unmanned aerial vehicles, It serves a
 
 <img src="https://github.com/AhmedSaleh627/Eagles_MegaProject/assets/88249795/d2698a1f-602e-40ea-81cc-0f257f7fb859 " width="400" height="400" />  
 
-<br>Features:
+<br> **Features:**
 
 *	Compatible With ArduPilot Software.
 *	User-Friendly as there are many available online resources for instructions.
@@ -21,13 +21,13 @@ An effective, low-power, and small platform for integrating AI and computer visi
 
 <img src="https://github.com/AhmedSaleh627/Eagles_MegaProject/assets/88249795/c295744a-02ee-4da6-bd47-435c9b274b29" width="400" height="400" />  
 
-<br>Features:
+<br> **Features:**
 *	Power Efficiency: The Jetson Nano is designed to provide high computing power while being energy-efficient. This is crucial for UAV applications, as power constraints are common due to limited battery capacity. 
 *	GPU Acceleration: The Jetson Nano comes with a powerful integrated GPU (Graphics Processing Unit) based on NVIDIA's CUDA architecture. This GPU acceleration enables efficient parallel processing of tasks such as computer vision, image processing, and artificial intelligence algorithms. 
 *	Compact Size and Weight: The Jetson Nano is compact and lightweight, making it suitable for integration into small UAV platforms with limited payload capacity.
 *	 Supports popular software frameworks and libraries used in the field of machine learning and artificial intelligence. This includes TensorFlow, PyTorch, OpenCV, and others, making it easier to develop and deploy advanced AI algorithms on the UAV.
 
-Possible Connections between the Pixhawk and the jetson nano:
+**Possible Connections between the Pixhawk and the jetson nano:**
 
 1-UART Connection:
 The Jetson Nano can be connected to the Cube Orange+ Pixhawk using UART (Universal Asynchronous Receiver-Transmitter) communication. The UART connection utilizes the serial ports available on both devices for data exchange.
@@ -50,7 +50,7 @@ A Wireless transmission link will be constructed between The Ground Control Stat
 
 <img src="https://github.com/AhmedSaleh627/Eagles_MegaProject/assets/88249795/b6e7f037-52bd-4b22-9178-a1540ccf358a" width="400" height="400" />    
 
-<br>Features:  
+<br> **Features:**
 *	Supports data transfer rates of 300+ Mb/s on the 5 GHz frequency.
 *	equipped with a single Gigabit Ethernet port.
 *	equipped with a single N-Type antenna connector.
@@ -63,7 +63,7 @@ It will be on our ground station and connected to the Ubiquiti Bullet Ac through
 
 <img src="https://github.com/AhmedSaleh627/Eagles_MegaProject/assets/88249795/d15516f0-d5cd-4426-83c7-4499edf7da79" width="400" height="400" />   
 
-<br>Features:
+<br> **Features:**
 *	Frequency 5GHz
 *	Throughput 450+ Mbps
 *	Range 15+ km
@@ -76,7 +76,7 @@ It will be connected to the Pixhawk on our UAV, and we will have another telemet
 
 <img src="https://github.com/AhmedSaleh627/Eagles_MegaProject/assets/88249795/473cc84a-7a15-4f5c-b78b-f2d43918e5f7" width="400" height="400" />   
 
-<br>Features
+<br> **Features:**
 *	Long range : More than 40km.
 *	Open-source firmware, field upgradeable and easy to configure.
 *	Small in size and light weight so good for our UAV.
@@ -87,7 +87,7 @@ The Here3+ GPS is a cost-efficient GNSS system that supports RTK mode with posit
 
 <img src="https://github.com/AhmedSaleh627/Eagles_MegaProject/assets/88249795/fb73886a-f632-481e-8acc-f89a61be8c58" width="400" height="400" />   
 
-<br>Features:
+<br> **Features:**
 *	Real-time features from the Drone CAN protocol.
 *	It is also designed to be dust-proof and splash-proof. 
 *	Support from ground control software
@@ -101,7 +101,7 @@ The Lidar will help us in avoinding the obstacles as it enables autonomous vehic
 
 <img src="https://github.com/AhmedSaleh627/Eagles_MegaProject/assets/88249795/fc532299-f255-41b4-bab3-fdd3cf301f79" width="400" height="400" />   
 
-<br>Features:
+<br> **Features:**
 *	Compatible with ArduCopter.
 *	360-degree full-scan detection of the surrounding environment and the creation of a map of the region.
 *	8 Meters Range.
@@ -115,7 +115,7 @@ A gimbal is a device that uses motors and sensors to counteract the movements of
 
 <img src="https://github.com/AhmedSaleh627/Eagles_MegaProject/assets/88249795/82c6329c-e2ca-41da-9bb4-18af7e5891c5" width="400" height="400" />   
 
-<br>Features:
+<br> **Features:**
 *	First-person view mode (FPV).
 *	Wide range voltage input
 *	Point follow mode (PF)
@@ -126,7 +126,7 @@ We need a camera in order to complete our computer vision tasks , It is recommen
 
 <img src="https://github.com/AhmedSaleh627/Eagles_MegaProject/assets/88249795/daeaec53-2eff-4c01-b45e-4c0c60a46f65" width="400" height="400" /> 
 
-<br>Features:
+<br> **Features:**
 *	Approx. 24.3 megapixels.
 *	25mm lens focal length.
 *	Up to 11 fps.
@@ -138,7 +138,7 @@ In case we want to control the UAV manually we need the RadioMaster Tx16S which 
 
 <img src="https://github.com/AhmedSaleh627/Eagles_MegaProject/assets/88249795/8539de2c-e3f4-4bb9-b97b-cd3c1efc3af1" width="400" height="400" /> 
 
-<br>Features:
+<br> **Features:**
 *	OpenTX Firmware: an open-source operating system specifically developed for RC transmitters.
 *	Hall Sensor Gimbals: The remote control is equipped with high-precision hall sensor gimbals, which offer smooth and precise control inputs.
 *	Telemetry and Voice Alerts: The TX16S supports telemetry integration, allowing users to receive real-time data and information from their RC models.
@@ -148,7 +148,7 @@ This will be our reciever which will maintain the communication with the radioma
 
 <img src="https://github.com/AhmedSaleh627/Eagles_MegaProject/assets/88249795/50bcb7be-cc80-4602-bfa9-944e6eda90f8" width="400" height="400" />  
 
-<br>Features:
+<br> **Features:**
 * Support for Telemetry: The X8R receiver features built-in telemetry capabilities that let you keep an eye on crucial flight information like battery power, signal strength, and more. This can offer useful information for tracking and guaranteeing the efficiency and performance of our aircraft.
 * Long Range: The X8R receiver is known for its long-range capabilities, enabling dependable signal transmission even over considerable distances.
 * Number of Channels: The X8R receiver has a maximum of 16 channels, which is plenty. 
