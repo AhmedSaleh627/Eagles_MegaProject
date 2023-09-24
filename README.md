@@ -1,6 +1,7 @@
 # Task 3
 ## The Cube Orange+ (Pixhawk):
-It will be used for the autonomous flight as it provides fully autonomous flight. It navigates and controls the UAV while moving between the given waypoints and avoiding any obstacles.
+It will be used for the autonomous flight as it provides fully autonomous flight. It navigates and controls the UAV while moving between the given waypoints and avoiding any obstacles.  
+
 Features:
 *	Compatible With ArduPilot Software.
 *	User-Friendly as there are many available online resources for instructions.
