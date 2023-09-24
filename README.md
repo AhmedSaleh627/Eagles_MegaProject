@@ -97,7 +97,7 @@ We will utilise the Here3+ GPS to locate the UAV because it is a reasonably pric
 *	Upgradeability, Noise immunity, high data rate.
 
 ## RP Lidar
-The Lidar will help us in avoinding the obstacles as it enables autonomous vehicles to “see” by generating and measuring millions of data points in real time, creating a precise map of its ever-changing surroundings for safe navigation.
+The Lidar will help us in avoiding the obstacles as it enables autonomous vehicles to “see” by generating and measuring millions of data points in real time, creating a precise map of its ever-changing surroundings for safe navigation.
 
 
 <img src="https://github.com/AhmedSaleh627/Eagles_MegaProject/assets/88249795/fc532299-f255-41b4-bab3-fdd3cf301f79" width="400" height="400" />   
