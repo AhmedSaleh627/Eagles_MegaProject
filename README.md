@@ -27,7 +27,7 @@ An effective, low-power, and small platform for integrating AI and computer visi
 *	Compact Size and Weight: The Jetson Nano is compact and lightweight, making it suitable for integration into small UAV platforms with limited payload capacity.
 *	 Supports popular software frameworks and libraries used in the field of machine learning and artificial intelligence. This includes TensorFlow, PyTorch, OpenCV, and others, making it easier to develop and deploy advanced AI algorithms on the UAV.
 
-Possible Connections between the Pixhawk and the jetson nano:  
+<u>Possible Connections between the Pixhawk and the jetson nano: </u> 
 
 1-UART Connection:
 The Jetson Nano can be connected to the Cube Orange+ Pixhawk using UART (Universal Asynchronous Receiver-Transmitter) communication. The UART connection utilizes the serial ports available on both devices for data exchange.
