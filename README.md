@@ -1,6 +1,6 @@
 # Task 3
 ## The Cube Orange+ (Pixhawk)
-It provides fully autonomous flight, navigates and controls the UAV while moving between the given waypoints and avoiding any obstacles.  
+It is an advanced autopilot system used in unmanned aerial vehicles, It serves as the main flight controller, managing flight stabilization, navigation, and control, It features a powerful microcontroller, supports sensor integration, offers redundancy and safety features, and has multiple connectivity options.
 
 <img src="https://github.com/AhmedSaleh627/Eagles_MegaProject/assets/88249795/d2698a1f-602e-40ea-81cc-0f257f7fb859 " width="400" height="400" />  
 
