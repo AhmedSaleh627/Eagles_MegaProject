@@ -31,7 +31,8 @@ An effective, low-power, and small platform for integrating AI and computer visi
 
 1-UART Connection:
 The Jetson Nano can be connected to the Cube Orange+ Pixhawk using UART (Universal Asynchronous Receiver-Transmitter) communication. The UART connection utilizes the serial ports available on both devices for data exchange.
-This is the connection I found most suitable for the UAV.
+This is the connection I found most suitable for the UAV.  
+
 Reasons for Choosing the UART Connection:
 *	Lightweight Connection: UART connection requires fewer resources and is suitable for applications where space and weight considerations are critical, such as small UAVs.
 *	Low Latency: UART communication offers low latency, making it suitable for time-critical applications that require fast data transfer.
