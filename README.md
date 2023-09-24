@@ -110,6 +110,65 @@ The Lidar will help us in avoinding the obstacles as it enables autonomous vehic
 *	Ideal for Robot Navigation and Localization
 *	Easy to use.
 
+## TAROT GIMBAL
+A gimbal is a device that uses motors and sensors to counteract the movements of your camera and keep it level and steady, and we need it since it is very important that we get clear images.  
+
+<img src="https://github.com/AhmedSaleh627/Eagles_MegaProject/assets/88249795/82c6329c-e2ca-41da-9bb4-18af7e5891c5" width="400" height="400" />   
+
+<br>Features:
+*	First-person view mode (FPV).
+*	Wide range voltage input
+*	Point follow mode (PF)
+*	Built-in independent IMU modules
+
+## Camera
+We need a camera in order to complete our computer vision tasks , It is recommended that we use the Sony α6000 Camera for its high resolution, high shutter speed in order to prevent blurring and considerably low price compared to the other cameras.  
+
+<img src="https://github.com/AhmedSaleh627/Eagles_MegaProject/assets/88249795/daeaec53-2eff-4c01-b45e-4c0c60a46f65" width="400" height="400" /> 
+
+<br>Features:
+*	Approx. 24.3 megapixels.
+*	25mm lens focal length.
+*	Up to 11 fps.
+*	E-mount.
+
+## Other Components that can be useful for us
+### RadioMaster Tx16S
+In case we want to control the UAV manually we need the RadioMaster Tx16S which is a remote control multiprotocol transmitter.  
+
+<img src="https://github.com/AhmedSaleh627/Eagles_MegaProject/assets/88249795/8539de2c-e3f4-4bb9-b97b-cd3c1efc3af1" width="400" height="400" /> 
+
+<br>Features:
+*	OpenTX Firmware: an open-source operating system specifically developed for RC transmitters.
+*	Hall Sensor Gimbals: The remote control is equipped with high-precision hall sensor gimbals, which offer smooth and precise control inputs.
+*	Telemetry and Voice Alerts: The TX16S supports telemetry integration, allowing users to receive real-time data and information from their RC models.
+
+### FrySky X8R Reciever
+This will be our reciever which will maintain the communication with the radiomaster tx16s.  
+
+<img src="https://github.com/AhmedSaleh627/Eagles_MegaProject/assets/88249795/50bcb7be-cc80-4602-bfa9-944e6eda90f8" width="400" height="400" />  
+
+<br>Features:
+* Support for Telemetry: The X8R receiver features built-in telemetry capabilities that let you keep an eye on crucial flight information like battery power, signal strength, and more. This can offer useful information for tracking and guaranteeing the efficiency and performance of our aircraft.
+* Long Range: The X8R receiver is known for its long-range capabilities, enabling dependable signal transmission even over considerable distances.
+* Number of Channels: The X8R receiver has a maximum of 16 channels, which is plenty. 
+
+### IR LOCK Sensor
+The IR-LOCK sensor is a modified version of the Pixy camera, which comes pre-configured to work as an IR beacon detector. It can be very useful to ensure  precise landing and safe landings in tight spaces.
+The IRLOCK sensor should be mounted to the underside of the frame with the camera lens pointing directly down toward the ground.
+
+<img src="https://github.com/AhmedSaleh627/Eagles_MegaProject/assets/88249795/3b1b518d-31c0-4138-b47c-dbe2d0b805f8" width="400" height="400" />   
+
+### HEREFLOW Sensor
+The HereFlow is a miniature UAV navigation board incorporating a time-of-flight LiDAR sensor, an optical flow camera and a six-degree-of-freedom IMU and it only weights 1 gram.  
+
+<img src="https://github.com/AhmedSaleh627/Eagles_MegaProject/assets/88249795/0a9901eb-751e-4538-8878-d773e131edab" width="200" height="300" /> 
+
+
+
+
+
+
 
 
 
