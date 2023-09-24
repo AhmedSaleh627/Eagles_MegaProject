@@ -84,7 +84,7 @@ It will be connected to the Pixhawk on our UAV, and we will have another telemet
 *	GPIO: 6 General purpose IO (Digital, ADC, PWM capable). 
 
 ## GPS HERE3+
-The Here3+ GPS is a cost-efficient GNSS system that supports RTK mode with positioning accuracy down to centimeter-level in an ideal environment, in which we will use it to determine the position of the UAV. 
+We will utilise the Here3+ GPS to locate the UAV because it is a reasonably priced GNSS device that supports RTK mode and has positioning accuracy down to centimeter-level in an ideal situation. 
 
 <img src="https://github.com/AhmedSaleh627/Eagles_MegaProject/assets/88249795/fb73886a-f632-481e-8acc-f89a61be8c58" width="400" height="400" />   
 
