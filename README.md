@@ -1,8 +1,9 @@
 # Task 3
 ## The Cube Orange+ (Pixhawk):
 It will be used for the autonomous flight as it provides fully autonomous flight. It navigates and controls the UAV while moving between the given waypoints and avoiding any obstacles.  
-
+<img align="right" src="![e](https://github.com/AhmedSaleh627/Eagles_MegaProject/assets/88249795/57525797-f1e8-45e4-b3d2-b9f6940a4832)">
 Features:
+
 *	Compatible With ArduPilot Software.
 *	User-Friendly as there are many available online resources for instructions.
 *	It is designed to be used with a domain-specific carrier board in order to reduce the wiring, improve reliability, and ease of assembly. 
