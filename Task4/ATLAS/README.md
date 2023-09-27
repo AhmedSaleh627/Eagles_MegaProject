@@ -17,13 +17,13 @@ From the cropped image, letters are detected using YOLO. An accuracy rate of 97%
 ### Localization
 To find the location of the detected object, first the size of the object is obtained using the following equation.
 
-![Alt text](https://github.com/youssefmohamed0/test/blob/main/images/Atlas%20pictures/Picture1.png)
+![Alt text](https://github.com/AhmedSaleh627/Eagles_MegaProject/blob/bee0bf4a2aa8283f6ad14b4b5907402e951ed577/Task4/ATLAS/Atlas%20pictures/Picture1.png)
 
 The distance between the center of the object and the vehicle is found and converted from pixel values to values in meter. The drone’s relative angle to the object is determined, and then the absolute bearing is calculated based on the drone and object’s positions. The absolute bearing and drone’s location are used to compute the geodesic distance using the GIS Python library, **GeoPy**.
 ### Manual Object Detection
 A manual ODCL interface for labeling objects has been developed using **C#** and **WPF**. The user interface is able to run on three different computers, making the labeling process much faster. 
 
-![Alt text](https://github.com/youssefmohamed0/test/blob/main/images/Atlas%20pictures/Picture2.png)
+![Alt text](https://github.com/AhmedSaleh627/Eagles_MegaProject/blob/bee0bf4a2aa8283f6ad14b4b5907402e951ed577/Task4/ATLAS/Atlas%20pictures/Picture2.png)
 
 ## Mapping
 **GPhoto2** is used to control the camera. Captured photos are saved on the Xavier NX. During the saving, the location info is obtained using the **Pixhawk Cube Black** and embedded into the image through a program developed by the team. Images containing GPS metadata are sent to the ground control station for mapping.
