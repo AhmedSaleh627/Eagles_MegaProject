@@ -25,7 +25,7 @@ Aerial images are copied off the companion computer, and the algorithm uses Open
 The UAS uses a **Pixhawk2.1 cube** flight controller that runs **PX4** autopilot firmware, which supports the ability to switch between manual and autonomous flight, direct interfacing with cameras using **Mavlink** protocol, flight logging, and Return-To-Home. The main reason for choosing PX4 is support of **MavSDK**, which allows control of the UAS using object-oriented programming rather than directly sending messages using the Mavlink protocol.
 Another key feature of the PX4 autopilot is the support for **QGroundControl** to monitor, log, analyze and control the UAS if necessary.
 
-![Alt text](https://github.com/youssefmohamed0/test/blob/main/images/Utat%20pictures/Picture1.png)
+![Alt text](https://github.com/AhmedSaleh627/Eagles_MegaProject/blob/597995871e71833940fbbfa7bf06dfd2b6cead82/Task4/UTAT/Utat%20pictures/Picture1.png)
 ## Obstacle Avoidance
 
 The obstacle avoidance system receives information about obstacles and other aircrafts’ positions from the interoperability server and feeds it into the onboard computer to from a 2D model of the airspace. The obstacle avoidance system combines this model with a planner to produce sets of waypoints.
@@ -38,7 +38,7 @@ A new set of plans is generated from this distribution. This process is repeated
 ## Communication
 A visual overview of the entire communications system is shown in the following figure: 
 
-![Alt text](https://github.com/youssefmohamed0/test/blob/main/images/Utat%20pictures/Picture2.png)
+![Alt text](https://github.com/AhmedSaleh627/Eagles_MegaProject/blob/597995871e71833940fbbfa7bf06dfd2b6cead82/Task4/UTAT/Utat%20pictures/Picture2.png)
 
 Telemetry: RFD900X, 3 dBi half wave dipole
 *	Transmission of flight data to the GCS for monitoring, uploading of waypoints
