@@ -11,7 +11,7 @@ The algorithm autonomously detects regions of interest (ROI) then picks up uniqu
 
 The algorithm is visualized in the flowchart:
 
-![alt text](https://github.com/youssefmohamed0/test/blob/main/images/itunom%20pictures/Picture3.png)
+![alt text](https://github.com/AhmedSaleh627/Eagles_MegaProject/blob/fca6c22f6a38853af73626225573b2dbf583b757/Task4/IT%C3%9CNOM/itunom%20pictures/Picture3.png)
 
 1.	Image is captured then sent to server through mission computer.
 2.	Image is smoothed and Canny edge detection algorithm is applied.
@@ -29,7 +29,7 @@ A user interface is designed for manual ODCL to be used to compensate for the fa
 Photos will be taken by UAV, and a map will be created using image stitching algorithms. 
 The number of photos used in merging will be calculated using the following equation.
 
-![Alt text](https://github.com/youssefmohamed0/test/blob/main/images/itunom%20pictures/Picture2.png)
+![Alt text](https://github.com/AhmedSaleh627/Eagles_MegaProject/blob/fca6c22f6a38853af73626225573b2dbf583b757/Task4/IT%C3%9CNOM/itunom%20pictures/Picture2.png)
 
 From the formula, it was calculated that approximately 42 photos should be taken at an altitude of 1200 feet from the center of the map.
 
@@ -54,7 +54,7 @@ With this approach if the UAV finds an obstacle on its path, the fight plan will
 ### Dynamic Obstacles
 In order to avoid moving obstacles, telemetry data of opposing aircraft is retrieved from the interoperability system every second. Among these data, the position, speed, and altitude.
 
-![Alt text](https://github.com/youssefmohamed0/test/blob/main/images/itunom%20pictures/Picture4.png)
+![Alt text](https://github.com/AhmedSaleh627/Eagles_MegaProject/blob/fca6c22f6a38853af73626225573b2dbf583b757/Task4/IT%C3%9CNOM/itunom%20pictures/Picture4.png)
 ## Communications
 The communication infrastructure is built upon four legs: telemetry data transfer to GCS, manual control, ODCL data transfer over Wi-Fi, and real-time image transfer.
 
