@@ -51,4 +51,4 @@ Wi-Fi communication through **Nanostation Loco5 AC** is used to transfer data ap
 
 An antenna tracking system using Pixhawk2.4.8 is being developed by the team members.
 ## Refrence
-[Atlas Technical Design Paper](https://drive.google.com/file/d/1XPeUINckVp9LRkIWNq1cuhNbRoKhDuqI/view?usp=sharing)
+[ATLAS Technical Design Paper](https://drive.google.com/file/d/1XPeUINckVp9LRkIWNq1cuhNbRoKhDuqI/view?usp=sharing)
