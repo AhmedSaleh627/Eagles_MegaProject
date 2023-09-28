@@ -1,7 +1,8 @@
 # Drone Mission Simulation and GPS Obstacles
 [Video Link](https://drive.google.com/file/d/1moXG_2tSXZLbZNRTZD53cwrM68VSTf4P/view?usp=sharing) -- Here is the Link to Task1 Video.
 
-## In this task, our objective is to simulate a drone mission using Mission Planner. Mission Planner provides the capability to set waypoints along with specific commands such as TAKEOFF, RETURN TO LAUNCH, and others. The drone will follow these waypoints and successfully complete the mission.  
+## Objective
+In this task, our objective is to simulate a drone mission using Mission Planner. Mission Planner provides the capability to set waypoints along with specific commands such as TAKEOFF, RETURN TO LAUNCH, and others. The drone will follow these waypoints and successfully complete the mission.  
 
 ## GPS Obstacles and Fences
 Regarding the  GPS obstacles, Mission Planner offers a feature called "Fences." This feature allows us to define specific GPS locations. If the drone enters any of these locations, it will immediately execute a different command such as Return to Launch or Land. However, Mission Planner lacks an option to instruct the drone to stop before entering the specified GPS location. To create a safety margin, we can increase the radius of the GPS location and reduce the speed of the drone, but this approach may not be entirely reliable.
