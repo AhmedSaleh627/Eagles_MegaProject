@@ -1,4 +1,6 @@
-# YOLO Shape, Letter and Color Detection
+# YOLO Shape, Letter and Color Detection  
+
+[Open in Colab](https://colab.research.google.com/github/AhmedSaleh627/Eagles_MegaProject/blob/main/Task2/Task_2.ipynb) -- Here is the Link to the Google Colab Notebook 
 
 This project utilizes YOLO (You Only Look Once) for shape detection, color identification, and Optical Character Recognition (OCR) to identify letters within shapes. It evaluates its performance on 20 sample images.
 
