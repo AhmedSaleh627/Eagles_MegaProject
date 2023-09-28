@@ -108,7 +108,7 @@ vehicle.close()
 if sitl:
     sitl.stop()
 ```
-### For avoing specific GPS locations:  
+### For avoiding specific GPS locations:  
 
 ![Screenshot 2023-09-28 183445](https://github.com/AhmedSaleh627/Eagles_MegaProject/assets/88249795/158ccdc2-77d9-4114-b53e-d5bf2844852d)
 
