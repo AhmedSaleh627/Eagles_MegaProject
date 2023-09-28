@@ -1,5 +1,5 @@
 # Drone Mission Simulation and GPS Obstacles
-[Video Link](https://drive.google.com/file/d/1moXG_2tSXZLbZNRTZD53cwrM68VSTf4P/view?usp=sharing) -- Here is the Link to Task1 Video.
+[Video Link](https://drive.google.com/file/d/1moXG_2tSXZLbZNRTZD53cwrM68VSTf4P/view?usp=sharing) -- Here is the Link to Task1 Video on Google Drive
 
 ## Objective
 In this task, our objective is to simulate a drone mission using Mission Planner. Mission Planner provides the capability to set waypoints along with specific commands such as TAKEOFF, RETURN TO LAUNCH, and others. The drone will follow these waypoints and successfully complete the mission.  
