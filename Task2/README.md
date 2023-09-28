@@ -45,9 +45,6 @@ The code evaluates the detection performance on 20 samples with the following re
 - Letter detection accuracy: 70%
 - Letter color detection accuracy: 70%
 
-## License
-
-This project is licensed under the MIT License.
 
 ## Acknowledgments
 
