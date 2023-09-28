@@ -113,6 +113,6 @@ if sitl:
 ![Screenshot 2023-09-28 183445](https://github.com/AhmedSaleh627/Eagles_MegaProject/assets/88249795/158ccdc2-77d9-4114-b53e-d5bf2844852d)
 
 
-Please note that the specific versions required for successful integration are pymavlink version 2.4.8, and Python version 3.6 or 2.7.
+### Please note that the specific versions required for successful integration are pymavlink version 2.4.8, and Python version 3.6 or 2.7.
 
-Although we were unable to complete the process, this README provides an overview of our intended approach and the challenges we encountered.
+### Although we were unable to complete the process, this README provides an overview of our intended approach and the challenges we encountered.
