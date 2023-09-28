@@ -115,4 +115,4 @@ if sitl:
 
 ### Please note that the specific versions required for successful integration are pymavlink version 2.4.8, and Python version 3.6 or 2.7.
 
-### Although we were unable to complete the process, this README provides an overview of our intended approach and the challenges we encountered.
+### Although we were unable to complete the process, this README file provides an overview of our intended approach and the challenges we encountered.
